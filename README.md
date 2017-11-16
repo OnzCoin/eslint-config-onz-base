@@ -1,11 +1,11 @@
-# eslint-config-lisk-base
+# eslint-config-onz-base
 
-This is the base eslint config for use in Lisk projects. It extends [`eslint-config-airbnb-base`](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), with a few overrides.
+This is the base eslint config for use in Onz projects. It extends [`eslint-config-airbnb-base`](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), with a few overrides.
 
 ## Installation
 
 ```bash
-npm install --save-dev eslint-config-lisk-base
+npm install --save-dev eslint-config-onz-base
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install --save-dev eslint-config-lisk-base
 In your `.eslintrc.json` file:
 ```json
 {
-  "extends": ["lisk-base"]
+  "extends": ["onz-base"]
 }
 ```
 
