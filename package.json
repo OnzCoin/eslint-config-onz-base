@@ -1,13 +1,13 @@
 {
-  "name": "eslint-config-lisk-base",
+  "name": "eslint-config-onz-base",
   "version": "0.1.0",
-  "description": "Base eslint config for Lisk projects.",
+  "description": "Base eslint config for Onz projects.",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "author": "Lisk Foundation <admin@lisk.io>, lightcurve GmbH <admin@lightcurve.io>",
+  "author": "Onzcoin <admin@onzcoin.com>, lightcurve GmbH <admin@lightcurve.io>",
   "license": "GPL-3.0",
   "devDependencies": {
     "eslint": "=4.2.0",
