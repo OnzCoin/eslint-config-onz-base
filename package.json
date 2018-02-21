@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-onz-base",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Base eslint config for Onz projects.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,21 @@
     "eslint": "^4.2.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnzCoin/eslint-config-onz-base.git"
+  },
+  "keywords": [
+    "eslint-config-onz-base",
+    "onz",
+    "onzcoin",
+    "socialnetworking",
+    "socialweighting",
+    "onzcoin.com"
+  ],
+  "bugs": {
+    "url": "https://github.com/OnzCoin/eslint-config-onz-base/issues"
+  },
+  "homepage": "https://github.com/OnzCoin/eslint-config-onz-base#readme"
 }
